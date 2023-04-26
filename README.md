@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Material, Motoko**
 
-- 👨‍💻 All of my projects are available at [malcolmvernon.info](malcolmvernon.info)
+- 👨‍💻 All older projects are available at [malcolmvernon.info](malcolmvernon.info)
 
 - 💬 Ask me about **React Toolkit, JavaScript, Python**
 
