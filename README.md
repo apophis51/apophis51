@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
 <h3 align="center">A passionate FullStack developer from Florida</h3>
 
-- 🌱 I’m currently learning **Material, Motoko**
+- 🌱 I’m currently learning **More DataScience, and Refining More of My React/Redux Skills**
 
 - 👨‍💻 All older projects are available at [malcolmvernon.info](malcolmvernon.info)
 
