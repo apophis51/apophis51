@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
 <h3 align="center">A passionate FullStack developer from Florida</h3>
 <img src="https://images04.military.com/sites/default/files/media/equipment/ordnance/lgm-30g-minuteman-iii/2014/02/lgm-30g-minuteman-iii-003.jpg">
-<p>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Fullstack software development!
+<H1>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Fullstack software development!</H1>
 
 Some technologies/areas that interest me
 Include Robotics/ Web3 / AI / Cybersecurity / Blockchain/ Web Development
