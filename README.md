@@ -10,7 +10,7 @@ I recently Graduated FullStack Academy. A technology immersive sponsored by Vete
 
 During that time I also managed to pickup TailwindCSS and various component libraries.
 
-I also know Python, the Flask framework which I picked up'd independently towards the beginning of 2022. I'm also expending on my Python knowledge to include the DataScience and Machine learning libraries of Scikitlearn, Pandas, and Seaborn, and many others.
+I also know Python, the Flask framework which I picked up'd independently, and solidified during the summer of 2022. I'm also expending on my Python knowledge to include the DataScience and Machine learning libraries of Scikitlearn, Pandas, and Seaborn, and many others.
 
 Cool things I've recently done includes a website I've grown from the ground up that now gets 8000 organic searches from Google Search Engine Results. 
 
