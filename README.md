@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
 <h3 align="center">A passionate FullStack developer from Florida</h3>
 
+<p>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Fullstack software development!
+
+Some technologies/areas that interest me
+Include Robotics/ Web3 / AI / Cybersecurity / Blockchain/ Web Development
+
+I recently Graduated FullStack Academy. A technology immersive sponsored by Veteran affairs that met for 5 months/ 5 days a week at 40hrs per week. Had a strong focus on the JavaScript Stack with Express, React/Redux, and PostgreSQL.
+
+During that time I also managed to pickup TailwindCSS and various component libraries.
+
+I also know Python, the Flask framework which I picked up'd independently towards the beginning of 2022. I'm also expending on my Python knowledge to include the DataScience and Machine learning libraries of Scikitlearn, Pandas, and Seaborn, and many others.
+
+Cool things I've recently done includes a website I've grown from the ground up that now gets 8000 organic searches from Google Search Engine Results. 
+
+I also have 3 years experience as Search Engine Optimization Specialist
+
+In my brief, web journey I've harden programming skills with independent projects that included full stack web buildouts, scrapers, automated posters, API integrations, Database schema designs, and the list goes on and on.
+
+Malcolmvernon.info - Lists some of my older Projects, but I'm working to get up to date and I'm also still building projects!</p>
+
 - 🌱 I’m currently learning **More DataScience, and Refining More of My React/Redux Skills**
 
 - 👨‍💻 All older projects are available at [malcolmvernon.info](malcolmvernon.info)
