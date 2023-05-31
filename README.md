@@ -3,7 +3,7 @@
 <img src="https://images04.military.com/sites/default/files/media/equipment/ordnance/lgm-30g-minuteman-iii/2014/02/lgm-30g-minuteman-iii-003.jpg">
 <H1>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Fullstack software development!</H1>
 <br>
-<p>In my brief, web journey I've harden programming skills with independent projects that included full stack web buildouts, scrapers, automated posters, API integrations, Database schema designs, and the list goes on and on.</p>
+<p>In my brief, web journey I've harden programming skills with independent projects that included full stack web buildouts, scrapers, automated posters, API integrations, Database design, and the list goes on and on.</p>
 <br>
 <a href="https://malcolmvernon.info">Malcolmvernon.info</a> <p>Lists my older Projects, but I'm currently working to get my new site MalcMind online</p>
 <br>
