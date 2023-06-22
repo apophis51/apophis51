@@ -22,7 +22,7 @@
 <li> I have 3 years experience as Search Engine Optimization Specialist in the travel sector niche </li>
 <br>
 
-- 🌱 I’m currently learning **More DataScience, and Refining More of My React/Redux Skills**
+- 🌱 I’m currently learning **React-three-fiber, More DataScience, and Refining More of My React/Redux Skills**
 
 - 👨‍💻 All older projects are available at [malcolmvernon.info](malcolmvernon.info)
 
