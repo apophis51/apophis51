@@ -11,7 +11,7 @@
 
 <h2>Keynotes</h2>
 
-<li>May26, 2023 I Graduated FullStack Academy. A technology immersive sponsored by Veteran affairs that met for 5 months/ 5 days a week at 40hrs per week. Had a strong focus on the JavaScript Stack with Express, React/Redux, and PostgreSQL. During that time I also managed to pickup TailwindCSS and various component libraries.</li>
+<li>May 26, 2023 I Graduated FullStack Academy. A technology immersive sponsored by Veteran affairs that met for 5 months/ 5 days a week at 40hrs per week. Had a strong focus on the JavaScript Stack with Express, React/Redux, and PostgreSQL. During that time I also managed to pickup TailwindCSS and various component libraries.</li>
 <br>
 <li>I know Python and the Flask framework which I picked up'd independently, and solidified during the summer of 2022. </li>
 <br>
@@ -22,7 +22,7 @@
 <li> I have 3 years experience as Search Engine Optimization Specialist in the travel sector niche </li>
 <br>
 
-- 🌱 I’m currently learning **React-three-fiber, More DataScience, and Refining More of My React/Redux Skills**
+- 🌱 I’m currently working on my **Solidity Ethereum Games, My Crypto Prediction AI, and My Interactive CyberSecurity Tutorials**
 
 - 👨‍💻 All older projects are available at [malcolmvernon.info](malcolmvernon.info)
 
