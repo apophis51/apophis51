@@ -5,7 +5,7 @@
 <br>
 <p>In my brief, web journey I've harden programming skills with independent projects that included full stack web buildouts, scrapers, automated posters, API integrations, Database design, and the list goes on and on.</p>
 <br>
-<a href="https://malcolmvernon.info">Malcolmvernon.info</a> <p>Lists my older Projects, but I'm currently working to get my new site MalcMind online</p>
+<a href="https://malcolmvernon.info">Checkout my portfolio at https://malcmind.com</a> <p>Lists my older Projects, but I'm currently working to get my new site MalcMind online</p>
 <br>
 <b>Technologies that intrest me include:</b>  Robotics/ Web3 / AI / Cybersecurity / Blockchain/ Web Development
 
