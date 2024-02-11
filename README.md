@@ -16,7 +16,9 @@
 <li>I know Python and the Flask framework which I picked up'd independently, and solidified during the summer of 2022. </li>
 <br>
 <li> Cool things I've recently done includes a website I've grown from the ground up that now gets 8000 organic searches from Google Search Engine Results. </li>
-<li> My Crypto Game<a href=https://malcmind.com/Crypto/Crypto-Predictions>https://malcmind.com/Crypto/Crypto-Predictions</a></li>
+<li> My Crypto AI <a href=https://malcmind.com/Crypto/Crypto-Predictions>https://malcmind.com/Crypto/Crypto-Predictions</a></li>
+<li> Interactive CyberSecurity Module im developing <a href= https://malcmind.com/ProgrammingBlogs/ffuf---hacker-tools>https://malcmind.com/ProgrammingBlogs/ffuf---hacker-tools</a></li>
+<li> My Ethereum Game <a href=https://malcmind.com/Crypto/Crypto-Games-and-Predictions>https://malcmind.com/Crypto/Crypto-Games-and-Predictions</a></li>
 <br>
 <li> I have 3 years experience as Search Engine Optimization Specialist in the travel sector niche </li>
 <br>
