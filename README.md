@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Malcolm</h1>
-<h3 align="center">A passionate FullStack developer from Florida</h3>
+<h3 align="center">A passionate FullStack developer from Florida - Open To WORK!</h3>
 <img src="https://images04.military.com/sites/default/files/media/equipment/ordnance/lgm-30g-minuteman-iii/2014/02/lgm-30g-minuteman-iii-003.jpg">
 <H1>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Open to Fullstack software employment =p !</H1>
 <br>
@@ -11,7 +11,7 @@
 
 <h2>Keynotes</h2>
 
-<li>May 26, 2023 I Graduated FullStack Academy. A technology immersive sponsored by Veteran affairs that met for 5 months/ 5 days a week at 40hrs per week. Had a strong focus on the JavaScript Stack with Express, React/Redux, and PostgreSQL. During that time I also managed to pickup TailwindCSS and various component libraries.</li>
+<li>May 26, 2023 I Graduated FullStack Academy. A technology immersive sponsored by Veteran affairs that met for 5 months/ 5 days a week at 40hrs per week. Had a strong focus on the JavaScript Stack with Express, React/Redux, and PostgreSQL. During that time I also managed to pickup TailwindCSS and various component libraries. I previously picked up Java and C++ ages ago but now forgot :(  </li>
 <br>
 <li>I know Python and the Flask framework which I picked up'd independently, and solidified during the summer of 2022. </li>
 <br>
