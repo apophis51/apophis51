@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Malcolm</h1>
 <h3 align="center">A passionate FullStack developer from Florida</h3>
 <img src="https://images04.military.com/sites/default/files/media/equipment/ordnance/lgm-30g-minuteman-iii/2014/02/lgm-30g-minuteman-iii-003.jpg">
-<H1>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Fullstack software development!</H1>
+<H1>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Open to Fullstack software employment =p !</H1>
 <br>
-<p>In my brief, web journey I've harden programming skills with independent projects that included full stack web buildouts, scrapers, automated posters, API integrations, Database design, and the list goes on and on.</p>
+<p>In my brief, web journey I've harden programming skills with independent projects that included full stack web buildouts, scrapers, blockchain contracts, machine learning builds, automated posters, API integrations, Database design, and the list goes on and on.</p>
 <br>
 <a href="https://malcolmvernon.info">Checkout my portfolio at https://malcmind.com</a>
 <br>
@@ -26,7 +26,7 @@
 
 - 👨‍💻 All older projects are available at [malcolmvernon.info](malcolmvernon.info)
 
-- 💬 Ask me about **React Toolkit, JavaScript, Python**
+- 💬 Ask me about **React, NextJS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/malcolm-vernon/**
 
