@@ -21,7 +21,7 @@
 <li> Interactive CyberSecurity Module im developing <a href= https://malcmind.com/ProgrammingBlogs/ffuf---hacker-tools>https://malcmind.com/ProgrammingBlogs/ffuf---hacker-tools</a></li>
 <li> My Ethereum Game <a href=https://malcmind.com/Crypto/Crypto-Games-and-Predictions>https://malcmind.com/Crypto/Crypto-Games-and-Predictions</a></li>
 <br>
-<li> I have 3 years experience as Search Engine Optimization Specialist in the travel sector niche </li>
+I also have 3 years experience as Search Engine Optimization Specialist in the travel sector niche </li>
 <br>
 
 - 🌱 I’m currently working on my **Solidity Ethereum Games, My Crypto Prediction AI, and My Interactive CyberSecurity Tutorials**
