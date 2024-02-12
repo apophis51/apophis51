@@ -20,6 +20,7 @@
 <li> My Crypto AI <a href=https://malcmind.com/Crypto/Crypto-Predictions>https://malcmind.com/Crypto/Crypto-Predictions</a></li>
 <li> Interactive CyberSecurity Module im developing <a href= https://malcmind.com/ProgrammingBlogs/ffuf---hacker-tools>https://malcmind.com/ProgrammingBlogs/ffuf---hacker-tools</a></li>
 <li> My Ethereum Game <a href=https://malcmind.com/Crypto/Crypto-Games-and-Predictions>https://malcmind.com/Crypto/Crypto-Games-and-Predictions</a></li>
+<li> My first git commit on <a https://github.com/BrainJS/brain.js.org/pull/24>Brain.js</a></li>
 <br>
 I also have 3 years experience as Search Engine Optimization Specialist in the travel sector niche </li>
 <br>
