@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Malcolm</h1>
-<h3 align="center">A passionate FullStack developer from Florida - Open To WORK!</h3>
+<h3 align="center">A passionate FullStack developer from Florida </h3>
 <img src="https://images04.military.com/sites/default/files/media/equipment/ordnance/lgm-30g-minuteman-iii/2014/02/lgm-30g-minuteman-iii-003.jpg">
 <H1>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Open to Fullstack software employment =p !</H1>
 <br>
