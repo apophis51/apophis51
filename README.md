@@ -1,5 +1,4 @@
  <h1 align="center">Hi 👋, I'm Malcolm</h1>
-<h3 align="center">A passionate FullStack developer from Florida </h3>
 <img src="https://images04.military.com/sites/default/files/media/equipment/ordnance/lgm-30g-minuteman-iii/2014/02/lgm-30g-minuteman-iii-003.jpg">
 <H1>I'm a FullStack Developer</H1>
 <br>
@@ -10,7 +9,7 @@
 <b>Technologies that intrest me include:</b>  Robotics/ Web3 / AI / Cybersecurity / Blockchain/ Web Development
 
 <h2>Keynotes</h2>
-<li>2007-2014 AirForce</li>
+<li>2007-2014 AirForce Missile Technician</li>
 <br>
 <li>Studied Electrical Engineering and Physics (incomplete</li>
 <br>
