@@ -15,9 +15,11 @@
 <br>
 <li>Worked 2 1/2 years as an SEO </li>
 <br>
-<li>May 26, 2023 I Graduated FullStack Academy. A technology immersive sponsored by Veteran affairs that met for 5 months/ 5 days a week at 40hrs per week. Had a strong focus on the JavaScript Stack with Express, React/Redux, and PostgreSQL. During that time I also managed to pickup TailwindCSS and various component libraries. I previously picked up Java and C++ ages ago but now forgot :(  </li>
+<li>Took a Fullstack JavaScript Bootcamp  </li>
 <br>
-<li>I also know Python and the Flask framework which I picked up'd independently, and solidified during the summer of 2022. </li>
+<li>Currently FullStack Developer Subhubtech</li>
+<br>
+<li>MongoDB, Postgres, Prisma, Flask, Nextjs, Preact, Svelte </li>
 <br>
 <h2>Cool Things I've Recently done</h2>
 <li> A website I've grown from the ground up that now gets 8000 organic searches from Google Search Engine Results. </li>
