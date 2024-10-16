@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Malcolm</h1>
 <h3 align="center">A passionate FullStack developer from Florida </h3>
 <img src="https://images04.military.com/sites/default/files/media/equipment/ordnance/lgm-30g-minuteman-iii/2014/02/lgm-30g-minuteman-iii-003.jpg">
-<H1>I went from a career fixing Nuclear Missiles in the United States Air Force, to SEO, and now Open to Fullstack software employment =p !</H1>
+<H1>I'm a FullStack Developer</H1>
 <br>
 <p>In my brief, web journey I've harden programming skills with independent projects that included full stack web buildouts, scrapers, blockchain contracts, machine learning builds, automated posters, API integrations, Database design, and the list goes on and on.</p>
 <br>
@@ -10,7 +10,12 @@
 <b>Technologies that intrest me include:</b>  Robotics/ Web3 / AI / Cybersecurity / Blockchain/ Web Development
 
 <h2>Keynotes</h2>
-
+<li>2007-2014 AirForce</li>
+<br>
+<li>Studied Electrical Engineering and Physics (incomplete</li>
+<br>
+<li>Worked 2 1/2 years as an SEO </li>
+<br>
 <li>May 26, 2023 I Graduated FullStack Academy. A technology immersive sponsored by Veteran affairs that met for 5 months/ 5 days a week at 40hrs per week. Had a strong focus on the JavaScript Stack with Express, React/Redux, and PostgreSQL. During that time I also managed to pickup TailwindCSS and various component libraries. I previously picked up Java and C++ ages ago but now forgot :(  </li>
 <br>
 <li>I also know Python and the Flask framework which I picked up'd independently, and solidified during the summer of 2022. </li>
